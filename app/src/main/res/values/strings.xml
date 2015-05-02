@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Einkaufsliste</string>
+
+    <string name="button_fertig">fertig</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="einkaeufe">
+        <item>Milch</item>
+        <item>Äpfel</item>
+        <item>Wasser</item>
+        <item>Brot</item>
+        <item>Butter</item>
+        <item>Salz</item>
+        <item>Wurst</item>
+        <item>Bier</item>
+        <item>Tee</item>
+        <item>Kaffee</item>
+        <item>Wein</item>
+    </string-array>
+</resources>
